@@ -5,9 +5,11 @@ To facilitate the evaluation of the following research regarding adversarial att
 <img src="dist.png" alt="Class-Wise Instance Distributions." align=center />
 
 ## Architecture
-These datasets are zipped in ./datasets.zip, where the architecture of this file is:
+These datasets can be accessed at BaiduNetDisk and Google Drive, where the architecture of this file is:
 ```
 .datasets
+├── README.md
+├── dist.png
 ├── DIOR-A
       ├──images
       └──labelTxt
@@ -23,7 +25,7 @@ then its label file is ```./datasets/DIOR-A/labelTxt/11726.txt```
 
 
 ## Acknowledgement
-We sincerely thank the authors of [DIOR](https://gcheng-nwpu.github.io/#Datasets) and [DOTA](https://captain-whu.github.io/DOTA/index.html) for their great contributions to optical remote sensing images understanding.
+We sincerely thank the authors of [DIOR](https://gcheng-nwpu.github.io/#Datasets) and [DOTA](https://captain-whu.github.io/DOTA/index.html) for their great contributions to optical remote sensing images understanding. Besides, DIOR-A and DOTA-A are mainly built by [Lei Pei](https://github.com/plpl2019) and [Xuxiang Sun](https://github.com/xuxiangsun), with the guidance of Prof. [Gong Cheng](https://gcheng-nwpu.github.io/).
 
 
 ## Citation
