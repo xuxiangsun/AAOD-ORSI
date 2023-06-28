@@ -34,7 +34,9 @@ If you use these datasets, please cite the following:
 @article{sun2023threatening,
   title={Threatening Patch Attacks on Object Detection in Optical Remote Sensing Images},
   author={Sun, Xuxiang and Cheng, Gong and Pei, Lei and Li, Hongda and Han, Junwei},
-  journal={arXiv preprint arXiv:2302.06060},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={61},
+  pages={1-10},
   year={2023}
 }
 ```
