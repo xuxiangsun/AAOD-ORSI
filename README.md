@@ -4,6 +4,10 @@ To facilitate the evaluation of the following research regarding adversarial att
 
 <img src="dist.png" alt="Class-Wise Instance Distributions." align=center />
 
+#### :sparkles: News
+**[Apr 18, 2024]**
+- Codes of [Threatening Patch Attacks on Object Detection in Optical Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10119208) has been updated at [plpl2019/TPA](https://github.com/plpl2019/TPA). Thanks very much for the selfless dedication of [Lei Pei](https://github.com/plpl2019) to this work! Meanwhile, I sincerely thank all the colleagues who have shown their interest in this project. Thank you for your support and understanding!
+
 ## Architecture
 These datasets can be accessed at [BaiduNetDisk](https://pan.baidu.com/s/1-MHxifKbULJM-jHXVM757Q?pwd=ba1g) and [Google Drive](https://drive.google.com/file/d/1tnCqiQ63ALUFq6cihZQS6SFc8LJAQTUC/view?usp=sharing), where the architecture of this file is:
 ```
@@ -34,11 +38,11 @@ If you use these datasets, please cite the following:
 @article{sun2023threatening,
   title={Threatening Patch Attacks on Object Detection in Optical Remote Sensing Images},
   author={Sun, Xuxiang and Cheng, Gong and Pei, Lei and Li, Hongda and Han, Junwei},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  journal={IEEE Trans. Geosci. Remote Sens.},
   volume={61},
   pages={1-10},
   year={2023}
 }
 ```
 ## Contact
-If you can not access to the download links, please contact to xuxiangsun@mail.nwpu.edu.cn (English and Chinese are all ok).
+If you can not access the download links, feel free to contact xuxiangsun@mail.nwpu.edu.cn (English and Chinese are all ok).
